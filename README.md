@@ -48,5 +48,5 @@ Di sini saya akan membagikan bagaimana cara mengunci Tombol Back Home And Resume
   mungkin kodenya hanya begitu ya, ini saya hanya menjawab pertanyaan dari teman-teman yang merequest cara lock Home, Back, And Resume, semoga kodingan saya ini bermanfaat.
   <br>
 Jika ada pertanyaan lagi bisa saja hubungi saya, jika saya bisa nanti saya akan bantu dan share mengenai masalah yang anda alami, Trimakasih.
-<br>
+<br><br>
 Waalaikumsalam wr. wb.
